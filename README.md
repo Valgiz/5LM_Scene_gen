@@ -16,6 +16,14 @@ structured, image-guided:
 unstructured, image-guided:
 <video src="videos/veo3_unstruct_guided_scene1.mp4" controls width="640"></video>
 
+scene 3:
+<video src="videos/scene3.mp4" controls width="640"></video>
+
+structured, image-guided:
+<video src="videos/veo3_5LM_guided_scene3.mp4" controls width="640"></video>
+
+unstructured, image-guided:
+<video src="videos/veo3_unstruct_guided_scene3.mp4" controls width="640"></video>
 
 
 
