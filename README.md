@@ -18,5 +18,4 @@ Real reference scene from the nuScenes-mini dataset:
 | ------            |     ------   |   ------   | ------     |   ------   |    ------  |    ------  |
 | Generated  Scenes |   CO   | 0.93 | 0.59 | n/a  | 0.85 | 0.81 |
 |                   |   CD   | 0.68 | 0.18 | n/a  | 0.63 | 0.50 |
-|                   |        |      |      |      |      |      |
 | Reference Scenes  |   CD   | 0.54 | 0.64 | n/a  | 0.91 | 0.52 |
