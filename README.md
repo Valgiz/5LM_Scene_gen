@@ -7,10 +7,11 @@ Rare and challenging driving scenarios are critical for autonomous vehicle devel
 ## Video generation example with Veo3
 
 Real reference scene from the nuScenes-mini dataset:
-![Real video](https://raw.githubusercontent.com/Valgiz/5LM_Scene_gen/main/videos/real_scene.mp4)
+
+<video src="videos/real_scene.avi" controls width="640"></video>
 
 
-<video src="videos/real_scene.mp4" controls width="640"></video>
+
 
 
 ## Experimental results
