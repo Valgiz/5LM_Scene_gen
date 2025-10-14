@@ -1,6 +1,6 @@
 # Driving scenario generation and evaluation using a structured layer representation and foundational models.
 ----
-<a href="https://https://github.com/Valgiz/5LM_Scene_gen">Github Text</a>
+<a href="https://github.com/Valgiz/5LM_Scene_gen">Github</a>
 ![Github](https://github.com/Valgiz/5LM_Scene_gen)
 ![Website](https://valgiz.github.io/5LM_Scene_gen)
 
