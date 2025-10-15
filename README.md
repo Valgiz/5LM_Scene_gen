@@ -8,24 +8,23 @@ Rare and challenging driving scenarios are critical for autonomous vehicle devel
 
 ## Video generation example with Veo3
 
-Real reference scene from the nuScenes-mini dataset:
-
-<video src="videos/real_scene.mp4" controls width="640"></video>
+<p>Real reference scene from the nuScenes-mini dataset:</p>
+<video src="videos/real_scene.mp4" controls width="640" autoplay muted></video>
 
 structured, image-guided:
-<video src="videos/veo3_5LM_guided_scene1.mp4" controls width="640"></video>
+<video src="videos/veo3_5LM_guided_scene1.mp4" controls width="640" autoplay muted></video>
 
 unstructured, image-guided:
-<video src="videos/veo3_unstruct_guided_scene1.mp4" controls width="640"></video>
+<video src="videos/veo3_unstruct_guided_scene1.mp4" controls width="640" autoplay muted></video>
 
 scene 3:
-<video src="videos/scene3.mp4" controls width="640"></video>
+<video src="videos/scene3.mp4" controls width="640" autoplay muted></video>
 
 structured, image-guided:
-<video src="videos/veo3_5LM_guided_scene3.mp4" controls width="640"></video>
+<video src="videos/veo3_5LM_guided_scene3.mp4" controls width="640" autoplay muted></video>
 
 unstructured, image-guided:
-<video src="videos/veo3_unstruct_guided_scene3.mp4" controls width="640"></video>
+<video src="videos/veo3_unstruct_guided_scene3.mp4" controls width="640" autoplay muted></video>
 
 
 
