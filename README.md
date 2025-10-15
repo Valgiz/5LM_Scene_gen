@@ -33,9 +33,21 @@ unstructured, image-guided:
 ## Experimental results
 
 
-
+Layer-wise evaluation:
 |                   | Metric |  L1  |  L2  |  L3  |  L4  |  L5  |
 | ------            |     ------   |   ------   | ------     |   ------   |    ------  |    ------  |
 | Generated  Scenes |   CO   | 0.93 | 0.59 | n/a  | 0.85 | 0.81 |
 |                   |   CD   | 0.68 | **0.18** | n/a  | **0.63** | **0.50** |
 | Reference Scenes  |   CD   | **0.54** | 0.64 | n/a  | 0.91 | 0.52 |
+
+Scenario structure evaluation:
+
+|    Metric    | Structure |  L1  |  L2  |  L3  |  L4  |  L5  |
+| ------       |     ------   |   ------   | ------     |   ------   |    ------  |    ------  |
+| Originality  |   Unstructured   | 0.91 | 0.88 | 0.85  | 0.89 | 0.83 |
+|              |   Soft   | 0.87 | 0.84 | 0.83  | 0.84 | 0.82 |
+|              |   Hard   | 0.86 | 0.84 | 0.84  | 0.86 | 0.81 |
+|  Diversity   |   Reference   | 0.92 | 0.92 | 0.89  | 0.92 | 0.96 |
+|              |   Unstructured   | 0.88 | 0.85 | 0.78  | 0.84 | 0.82 |
+|              |   Soft   | 0.81 | 0.78 | 0.76  | 0.78 | 0.80 |
+|              |   Hard   | 0.88 | 0.83 | 0.83  | 0.86 | 0.81 |
