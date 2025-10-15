@@ -7,7 +7,7 @@
 Rare and challenging driving scenarios are critical for autonomous vehicle development. Since they are difficult to encounter, simulating or generating them using generative models is a popular approach. Following previous efforts of structuring driving scenario representations in a layer model, we propose a structured five-layer model to improve evaluation and generation of rare scenarios. We use this model alongside large foundational models to generate new driving scenarios using a data augmentation strategy. Unlike previous representations, our structure introduces subclasses and characteristics for every agent of the scenario, allowing us to compare them using an embedding in our layer-model space. We study and adapt two metrics to evaluate the relevance of a synthetic dataset in the context of a structured representation: the diversity score estimates how different the scenarios of a dataset are from one another, while the originality score calculates how similar a synthetic dataset is from a real reference set. This paper showcase both metrics in different generation setup, as well as a qualitative evaluation of synthetic videos generated from structured scenario descriptions.
 
 
-<img src="image/full_pipeline.png" width="80%" height="80%">
+<img src="image/full_pipeline.png" width="100%" height="100%">
 
 ## Video generation example with Veo3
 
